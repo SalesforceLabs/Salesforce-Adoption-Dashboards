@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label>地域</label>
+        <name>DB_Region__c</name>
+        <picklistValues>
+            <masterLabel>APAC</masterLabel>
+            <translation>アジアパシフィック</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>EMEA</masterLabel>
+            <translation>ヨーロッパ、中東及びアフリカ</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>LA</masterLabel>
+            <translation>ラテンアメリカ</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NA</masterLabel>
+            <translation>不明</translation>
+        </picklistValues>
+    </fields>
+</CustomObjectTranslation>
